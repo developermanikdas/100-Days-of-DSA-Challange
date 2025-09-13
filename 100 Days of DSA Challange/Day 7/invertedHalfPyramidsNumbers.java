@@ -1,4 +1,4 @@
-public class invertedHalfPyramidsNumbers {
+public class InvertedHalfPyramidsNumbers {
 
     public static void printInvertedHalfPyramidWithNumbers(int n) {
         for (int i = 0; i < n; i++) {
