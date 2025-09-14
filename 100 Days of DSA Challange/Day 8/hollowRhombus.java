@@ -1,4 +1,4 @@
-public class hollowRhombus {
+public class HollowRhombus {
     public static void printRhombus(int n) {
         for (int i = 0; i < n; i++) {
             // spaces
